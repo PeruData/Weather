@@ -13,3 +13,5 @@ Information available from the authors at sebastiansardonbisso@gmail.com. Sugges
 
 The following figure can be replicated using the output dataset:
 ![](images/1_4panels.png)
+
+![](images/2_rainmap.png)
