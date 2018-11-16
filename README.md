@@ -11,5 +11,5 @@ Step 1's output can be downloaded [here](https://www.dropbox.com/sh/z9igeu8g1tu3
 
 Information available from the authors at sebastiansardonbisso@gmail.com. Suggestions are welcome.
 
-Here is an example of the information contained in the output dataset (Step 2):
+The following figure can be replicated from the output dataset:
 ![](images/1_4panels.png)
