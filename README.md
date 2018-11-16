@@ -1,4 +1,4 @@
-# ENAHO (1997-2017)
+# Weather (1990 - 2016)
 Author: Sebastian Sardon
 
 These programs create a dataset of Peruvian weather data at a daily frequency.
