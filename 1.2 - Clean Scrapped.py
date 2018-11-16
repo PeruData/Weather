@@ -137,12 +137,11 @@ start_time = time.time()
 df_master =  pd.DataFrame(columns=['station', 'name', 'type', 'dep', 'prov', 'dist', 'latitud', 'longitud', 'altitude'])
 characteristics_file = 'in/SENHAMI/station characteristics/'
 def sexagesimal_to_decimal(str):
-    degree_int = float(str.split("°")[0])
-    minute_int = float(str.split("°")[1].split("'")[0])/60
-    second_int = float(str.split("'")[1].split("''")[0])/3600
-    coordinate_decimals = -(degree_int + minute_int + second_int)
+    degree_float = float(str.split("°")[0])
+    minute_float = float(str.split("°")[1].split("'")[0])/60
+    second_float = float(str.split("'")[1].split("''")[0])/3600
+    coordinate_decimals = -(degree_float + minute_float + second_float)
     return coordinate_decimals
-
 c = 1
 for file in os.listdir(characteristics_file):
     if file[-5:] != '.html':
