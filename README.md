@@ -14,4 +14,4 @@ Information available from the authors at sebastiansardonbisso@gmail.com. Sugges
 The following figure can be replicated using the output dataset:
 ![](images/1_4panels.png)
 
-<img src="images/2_rainmap.png" width="48">
+<img src="images/2_rainmap.png" width="500">
