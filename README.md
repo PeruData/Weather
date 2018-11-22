@@ -18,6 +18,10 @@ The following figures can be replicated using the output dataset:
 
 ![](images/2_maps.png)
 
+Precipitation Map (milimters, daily average)
+
 ![](images/Rain.png)
+
+Temperature Map (°C, 7 a.m. average)
 
 ![](images/Temperature.png)
