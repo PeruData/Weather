@@ -18,6 +18,6 @@ The following figures can be replicated using the output dataset:
 
 ![](images/2_maps.png)
 
-![](images/Rain.pdf)
+![](images/Rain.png)
 
-![](images/Temperature.pdf)
+![](images/Temperature.png)
