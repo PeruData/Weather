@@ -13,7 +13,11 @@ Step 1's output can be downloaded [here](https://www.dropbox.com/sh/z9igeu8g1tu3
 
 Information available from the authors at sebastiansardonbisso@gmail.com. Suggestions are welcome.
 
-The following figure can be replicated using the output dataset:
+The following figures can be replicated using the output dataset:
 ![](images/1_4panels.png)
 
 ![](images/2_maps.png)
+
+![](images/Rain.pdf)
+
+![](images/Temperature.pdf)
