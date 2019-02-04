@@ -11,7 +11,7 @@ Instructions:
 
 Step 1's output can be downloaded [here](https://www.dropbox.com/sh/z9igeu8g1tu37fx/AADkyefvuqyjRrrDhGPVh2LXa?dl=0).
 
-Information available from the authors at sebastiansardonbisso@gmail.com. Suggestions are welcome.
+Information available from the author at sebastiansardonbisso@gmail.com. Suggestions are welcome.
 
 The following figures can be replicated using the output dataset:
 ![](images/1_4panels.png)
