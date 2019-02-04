@@ -10,7 +10,7 @@
 clear
 timer clear
 timer on 1
-global ccc "/Volumes/Backup Mac/GRADE/Climate and Education/00_Data/"
+global ccc "/Volumes/Documents"
 cd "$ccc"
 
 *1. Append raw yearly weather datasets
