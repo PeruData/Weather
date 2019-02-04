@@ -5,7 +5,7 @@ These programs create a dataset of Peruvian weather data at a daily frequency.
 
 Instructions:
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Step 1. Retrieve raw data from SENHAMI's official webpage using the program "1.1 - Scrap SENHAMI.py", then preprocess it with "1.2 - Clean Scrapped.py" [requires Python 3] 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Step 1. Retrieve raw data from SENHAMI's official webpage using the program "1.1 - Scrap SENHAMI.py", then preprocess it with "1.2 - Clean Scrapped.py" [requires Python] 
     
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Step 2. Clean raw data using the program "2 - Weather Dataset.do" [requires Stata]
 
