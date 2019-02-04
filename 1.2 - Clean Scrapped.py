@@ -16,7 +16,7 @@ import shutil
 import time
 from bs4 import BeautifulSoup
 
-os.chdir("/Volumes/Backup Mac/GRADE/Climate and Education/00_Data")
+os.chdir("/Volumes/Documents/")
 
 #Define function to replace non-ASCII characters
 def to_ascii(str):
