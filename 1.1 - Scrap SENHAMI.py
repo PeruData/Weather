@@ -13,7 +13,7 @@ import time
 from bs4 import BeautifulSoup
 from urllib.request import urlopen
 
-os.chdir("/Volumes/Backup Mac/GRADE/Climate and Education/00_Data")
+os.chdir("/Volumes/Documents/")
 start_time = time.time()
 Stations_txt = open("in/SENHAMI/Stations.txt",  'r')
 stations = []
