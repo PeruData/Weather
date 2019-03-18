@@ -19,9 +19,9 @@ The following figures can be replicated using the output dataset:
 ![](images/2_maps.png)
 
 
-Left panel: Temperature Map (°C, 7 a.m. average). Right panel: Precipitation Map (milimters, daily average).
+Below, nearest neighbour (1-NN) maps of average weather over 1990-2016. Left panel: Average temperature (°C, 7 a.m.). Right panel: average precipitation (milimters, daily).
 
 <p float="left">
-  <img src="images/Rain.png" width="450" />
-  <img src="images/Temperature.png" width="450" /> 
+  <img src="images/Temperature.png" width="430" /> 
+  <img src="images/Rain.png" width="430" />
 </p>
