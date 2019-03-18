@@ -19,7 +19,7 @@ The following figures can be replicated using the output dataset:
 ![](images/2_maps.png)
 
 
-Below, nearest neighbor (1-NN) maps of local averages over 1990-2016. Left panel: Average temperature (°C, 7 a.m.). Right panel: average precipitation (milimters, daily).
+Below, nearest neighbor (1-NN) maps of local averages over 1990-2016. Left panel: average temperature (°C, 7 a.m.). Right panel: average precipitation (milimters, daily).
 
 <p float="left">
   <img src="images/Temperature.png" width="430" /> 
