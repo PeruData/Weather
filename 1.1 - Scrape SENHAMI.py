@@ -1,5 +1,5 @@
 """
-Scrap weather data from SENHAMI
+Scrape weather data from SENHAMI
 Last modified: 14/11/2018
 author: SSB
 run time: around 40h (highly sensitive to internet download speed)
